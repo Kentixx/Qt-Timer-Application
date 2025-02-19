@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 
     TimeWidget timer;
     timer.setWindowTitle("Таймер");
-    timer.resize(600, 300);
+    timer.resize(750, 400);
 
     timer.show();
     return app.exec();
